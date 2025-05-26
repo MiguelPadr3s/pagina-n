@@ -1,0 +1,11 @@
+Model Information:
+* title:	Xeno Final
+* source:	https://sketchfab.com/3d-models/xeno-final-4de8d849ac3d4dddb5043d3018e05b7c
+* author:	glewindesign (https://sketchfab.com/glewin7)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Xeno Final" (https://sketchfab.com/3d-models/xeno-final-4de8d849ac3d4dddb5043d3018e05b7c) by glewindesign (https://sketchfab.com/glewin7) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

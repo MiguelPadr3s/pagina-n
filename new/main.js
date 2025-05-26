@@ -6,7 +6,7 @@ const renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.outputColorSpace = THREE.SRGBColorSpace;
 
 renderer.setSize(window.innerWidth, window.innerHeight);
-renderer.setClearColor(0x000000);
+renderer.setClearColor(0xffffff);
 renderer.setPixelRatio(window.devicePixelRatio);
 
 renderer.shadowMap.enabled = true;
@@ -60,7 +60,7 @@ loader.load('scene.gltf', (gltf) => {
     }
   });
 
-  mesh.scale.set(0.01, 0.01, 0.01); // escala del modelo (ajústala si es muy grande o pequeño)
+  mesh.scale.set(0.005, 0.005, 0.005); // escala del modelo (ajústala si es muy grande o pequeño)
 
   // Centrar y alinear el modelo al plano del suelo
   const box = new THREE.Box3().setFromObject(mesh); // caja que envuelve el modelo

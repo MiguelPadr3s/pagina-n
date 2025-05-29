@@ -37,3 +37,10 @@ h1 {
   font-size: 3em;
   color: white;
 }
+
+    .overlay-button {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      z-index: 10;
+    }
